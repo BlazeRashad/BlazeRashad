@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlazeRashad
+- 👋 Hi, I’m @Rashad
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on New Projects
